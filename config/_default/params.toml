@@ -4,10 +4,10 @@ favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/logoblack.svg"
 logo_darkmode = "images/logowhite.svg"
-# use `px` or `x` with logo_width, example: "100px".
-# Note: logo_width is not work with .svg file
-logo_width = "160px"
-logo_height = "32px"
+# use numbers for logo_width and logo_height (without px)
+# Note: logo_width and logo_height work with .svg files
+logo_width = 160
+logo_height = 32
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
