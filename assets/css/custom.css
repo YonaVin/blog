@@ -1,1 +1,52 @@
 /* Add your own custom styles here */
+
+/* Language switcher customization */
+select[onchange*="location"] {
+  border: 2px solid white !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background-color: transparent !important;
+  color: white !important;
+}
+
+select[onchange*="location"]:focus {
+  border: 2px solid white !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+select[onchange*="location"]:hover {
+  border: 2px solid white !important;
+}
+
+/* Dark theme styles */
+.dark select[onchange*="location"] {
+  border: 2px solid white !important;
+  color: white !important;
+}
+
+.dark select[onchange*="location"]:focus {
+  border: 2px solid white !important;
+}
+
+.dark select[onchange*="location"]:hover {
+  border: 2px solid white !important;
+}
+
+/* Remove default browser focus styles */
+select[onchange*="location"]:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Style the dropdown arrow */
+select[onchange*="location"] {
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e") !important;
+  background-repeat: no-repeat !important;
+  background-position: right 8px center !important;
+  background-size: 16px !important;
+  padding-right: 30px !important;
+}
