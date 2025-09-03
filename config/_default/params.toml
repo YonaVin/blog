@@ -6,8 +6,8 @@ logo = "images/logoblack.svg"
 logo_darkmode = "images/logowhite.svg"
 # use numbers for logo_width and logo_height (without px)
 # Note: logo_width and logo_height work with .svg files
-logo_width = 40
-logo_height = 20
+logo_width = 30
+logo_height = 15
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
