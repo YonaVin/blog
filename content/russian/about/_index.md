@@ -1,9 +1,13 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
+title: "Привет, я Yona!"
+meta_title: "О нас"
+description: "Узнайте больше обо мне и моем блоге"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Привет! Я Yona, и я рада приветствовать вас в моем личном блоге. Здесь я делюсь своими мыслями, опытом и идеями о технологиях, личном развитии и жизни в целом.
+
+Я увлечена программированием, технологиями и постоянным обучением. Мой блог - это место, где я документирую свой путь, делюсь знаниями и общаюсь с единомышленниками.
+
+Надеюсь, что мои посты будут полезны и вдохновят вас на собственные открытия и достижения!

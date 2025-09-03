@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
-meta_title: ""
-description: "this is meta description"
+title: "Посты блога"
+meta_title: "Мой блог"
+description: "Читайте мои мысли, опыт и идеи о технологиях, жизни и развитии"
 ---
