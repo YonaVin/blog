@@ -7,7 +7,7 @@
       class="logo-light dark:hidden" 
       src="{{ $logo.RelPermalink }}" 
       alt="{{ site.Title }}" 
-      style="width: {{ site.Params.logo_width | default '160px' }}; height: {{ site.Params.logo_height | default '32px' }};"
+      style="width: {{ site.Params.logo_width | default \"160px\" }}; height: {{ site.Params.logo_height | default \"32px\" }};"
     />
   {{ end }}
   
@@ -16,7 +16,7 @@
       class="logo-dark hidden dark:block" 
       src="{{ $logoDark.RelPermalink }}" 
       alt="{{ site.Title }}" 
-      style="width: {{ site.Params.logo_width | default '160px' }}; height: {{ site.Params.logo_height | default '32px' }};"
+      style="width: {{ site.Params.logo_width | default \"160px\" }}; height: {{ site.Params.logo_height | default \"32px\" }};"
     />
   {{ end }}
   
