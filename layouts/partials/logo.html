@@ -1,0 +1,28 @@
+{{ if site.Params.logo }}
+  {{ $logo := resources.Get site.Params.logo }}
+  {{ $logoDark := resources.Get site.Params.logo_darkmode }}
+  
+  {{ if $logo }}
+    <img 
+      class="logo-light dark:hidden" 
+      src="{{ $logo.RelPermalink }}" 
+      alt="{{ site.Title }}" 
+      style="width: {{ site.Params.logo_width | default '160px' }}; height: {{ site.Params.logo_height | default '32px' }};"
+    />
+  {{ end }}
+  
+  {{ if $logoDark }}
+    <img 
+      class="logo-dark hidden dark:block" 
+      src="{{ $logoDark.RelPermalink }}" 
+      alt="{{ site.Title }}" 
+      style="width: {{ site.Params.logo_width | default '160px' }}; height: {{ site.Params.logo_height | default '32px' }};"
+    />
+  {{ end }}
+  
+  {{ if not (or $logo $logoDark) }}
+    <span class="logo-text">{{ site.Params.logo_text | default site.Title }}</span>
+  {{ end }}
+{{ else }}
+  <span class="logo-text">{{ site.Params.logo_text | default site.Title }}</span>
+{{ end }}
