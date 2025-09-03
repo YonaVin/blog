@@ -30,20 +30,20 @@ parent = "Pages"
 name = "Contact"
 url = "/contact"
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "/authors"
 
 [[main]]
 parent = "Pages"
 name = "Categories"
 url = "/categories"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "/404"
 
 
 # footer menu
