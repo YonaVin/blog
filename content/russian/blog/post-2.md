@@ -4,7 +4,7 @@ meta_title: "Технологии и инновации"
 description: "Исследуйте увлекательный мир современных технологий и их влияние на нашу жизнь"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Технологии", "Данные"]
+categories: ["Technology", "Data"]
 author: "Yona"
 tags: ["technology", "tailwind"]
 draft: false

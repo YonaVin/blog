@@ -4,7 +4,7 @@ meta_title: "Создание приложения"
 description: "Узнайте, как создать современное приложение с использованием новейших технологий"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Приложения", "Данные"]
+categories: ["Applications", "Data"]
 author: "Yona"
 tags: ["nextjs", "tailwind"]
 draft: false
