@@ -1,53 +1,58 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Welcome to My Blog"
+  content: "Hi, I'm Yona! Welcome to my personal blog where I share my thoughts, experiences, and insights about technology, life, and everything in between."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Read My Blog"
+    link: "/blog"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What I Write About"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "My blog covers various topics that I'm passionate about and think you might find interesting too."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Technology and programming insights"
+      - "Personal development and growth"
+      - "Life experiences and lessons learned"
+      - "Creative projects and ideas"
+      - "Thoughts on current trends"
+      - "**Personal stories** and reflections"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Explore Posts"
+      link: "/blog"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Why I Started This Blog"
+    image: "/images/service-2.png"
+    content: "I believe in sharing knowledge and experiences. This blog is my way of connecting with like-minded people and contributing to the community."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Share knowledge and learn from others"
+      - "Document my journey and growth"
+      - "Connect with the community"
+      - "Express creativity and ideas"
+      - "Build a personal brand"
+      - "**Inspire and help others**"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "About Me"
+      link: "/about"
+
+  - title: "Let's Connect and Share Ideas"
+    image: "/images/service-3.png"
+    content: "I love connecting with readers and fellow creators. Feel free to reach out, share your thoughts, or suggest topics you'd like me to write about."
+    bulletpoints:
+      - "Comment on blog posts and share your thoughts"
+      - "Follow me on social media for updates"
+      - "Send me a message with your ideas"
+      - "Collaborate on interesting projects"
+      - "Join the conversation and community"
+      - "**Let's grow together**"
+    button:
+      enable: true
+      label: "Contact Me"
+      link: "/contact"
 ---
