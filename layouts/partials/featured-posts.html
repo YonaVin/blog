@@ -1,0 +1,59 @@
+{{ define "featured-posts" }}
+<div class="swiper featured-posts-slider">
+  <div class="swiper-wrapper">
+    {{ range .Params.featured_posts }}
+      <div class="swiper-slide">
+        <div class="bg-white dark:bg-darkmode-theme-light rounded-lg p-6 shadow-lg hover:shadow-xl transition-shadow duration-300">
+          <div class="mb-4">
+            {{ partial "image" (dict "Src" .image "Alt" .title "DisplayXL" "400x" "DisplayLG" "350x" "DisplayMD" "300x" "Class" "w-full h-48 object-cover rounded-lg") }}
+          </div>
+          <div class="mb-3">
+            <span class="inline-block px-3 py-1 text-xs font-semibold text-primary bg-primary/10 rounded-full">
+              {{ .category }}
+            </span>
+          </div>
+          <h3 class="mb-3 text-xl font-bold text-dark dark:text-white hover:text-primary transition-colors">
+            <a href="{{ .link }}">{{ .title }}</a>
+          </h3>
+          <p class="mb-4 text-muted dark:text-darkmode-text">
+            {{ .excerpt }}
+          </p>
+          <div class="flex items-center justify-between">
+            <span class="text-sm text-muted dark:text-darkmode-text">{{ .date }}</span>
+            <a href="{{ .link }}" class="text-primary hover:text-primary-dark font-medium text-sm">
+              Read More →
+            </a>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+  <div class="featured-posts-slider-pagination mt-9 flex items-center justify-center text-center"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  new Swiper('.featured-posts-slider', {
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true,
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: '.featured-posts-slider-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      768: {
+        slidesPerView: 2,
+      },
+      1024: {
+        slidesPerView: 3,
+      },
+    },
+  });
+});
+</script>
+{{ end }}
