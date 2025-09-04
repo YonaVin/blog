@@ -135,3 +135,13 @@ select[onchange*="location"] {
 .dark .blog-single .content h6 {
   color: #B4AFB6 !important;
 }
+
+/* Bold text (strong, b) - same color as regular text */
+.dark .content strong,
+.dark .content b,
+.dark article .content strong,
+.dark article .content b,
+.dark .blog-single .content strong,
+.dark .blog-single .content b {
+  color: #B4AFB6 !important;
+}
