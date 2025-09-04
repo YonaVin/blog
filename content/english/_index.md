@@ -55,4 +55,8 @@ features:
       enable: true
       label: "Contact Me"
       link: "/contact"
+    button2:
+      enable: true
+      label: "☕ Buy me a coffee"
+      link: "https://buymeacoffee.com/yona7"
 ---

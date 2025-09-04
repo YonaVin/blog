@@ -55,4 +55,8 @@ features:
       enable: true
       label: "Связаться со мной"
       link: "/contact"
+    button2:
+      enable: true
+      label: "☕ Купить мне кофе"
+      link: "https://buymeacoffee.com/yona7"
 ---

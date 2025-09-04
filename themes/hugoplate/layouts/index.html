@@ -71,6 +71,13 @@
                 </a>
               {{ end }}
             {{ end }}
+            {{ with .button2 }}
+              {{ if .enable }}
+                <a class="btn btn-outline-primary mt-6 ml-4" href="{{ .link | absURL }}" target="_blank" rel="noopener">
+                  {{ .label }}
+                </a>
+              {{ end }}
+            {{ end }}
           </div>
         </div>
       </div>
