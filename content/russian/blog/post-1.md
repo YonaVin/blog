@@ -2,7 +2,7 @@
 title: "Как создать приложение с современными технологиями"
 meta_title: "Создание приложения"
 description: "Узнайте, как создать современное приложение с использованием новейших технологий"
-date: 2025-01-05T05:00:00Z
+date: 2025-09-03T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Journey", "Front-End Development"]
 author: "Yona"

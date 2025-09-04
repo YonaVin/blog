@@ -2,7 +2,7 @@
 title: "Архитектура будущего: как технологии формируют наш мир"
 meta_title: "Архитектура будущего"
 description: "Исследуйте, как современные технологии и архитектурные решения создают города и пространства будущего"
-date: 2025-01-02T05:00:00Z
+date: 2025-08-31T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Design", "Life & Inspiration"]
 author: "Yona"

@@ -3,7 +3,7 @@ title: "My Journey into Design and Front-End Development"
 meta_title: ""
 description: "this is meta description"
 summary: "Hello and welcome! My name is Alyona, and I'm glad you stopped by my blog. Here, I'll be sharing my experiences in design and front-end development."
-date: 2025-01-04T05:00:00Z
+date: 2025-09-03T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Projects", "Front-End Development"]
 author: "Yona"
