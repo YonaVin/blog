@@ -27,6 +27,10 @@
 <!-- custom script -->
 {{ partialCached "custom-script.html" . }}
 
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2191862749795867"
+     crossorigin="anonymous"></script>
+
 
 <!-- google analytics -->
 {{ if and site.Config.Services.GoogleAnalytics.ID (ne site.Config.Services.GoogleAnalytics.ID "G-MEASUREMENT_ID") }}
