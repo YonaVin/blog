@@ -2,7 +2,7 @@
 title: "Разработка программного обеспечения: от идеи до реализации"
 meta_title: "Разработка ПО"
 description: "Погрузитесь в процесс создания программного обеспечения и узнайте о ключевых этапах разработки"
-date: 2022-04-04T05:00:00Z
+date: 2025-01-03T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Learning", "Tips & Tricks"]
 author: "Yona"

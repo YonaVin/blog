@@ -2,7 +2,7 @@
 title: "Путешествие в мир технологий и инноваций"
 meta_title: "Технологии и инновации"
 description: "Исследуйте увлекательный мир современных технологий и их влияние на нашу жизнь"
-date: 2022-04-04T05:00:00Z
+date: 2025-01-04T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Projects", "Front-End Development"]
 author: "Yona"
