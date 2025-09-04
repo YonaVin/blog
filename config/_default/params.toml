@@ -41,6 +41,12 @@ enable = true
 label = "contact me"
 link = "contact"
 
+# Buy me a coffee button
+[navigation_button2]
+enable = true
+label = "☕ buy me a coffee"
+link = "https://buymeacoffee.com/yona7"
+
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
