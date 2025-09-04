@@ -73,3 +73,39 @@ select[onchange*="location"] {
 .dark .content h6 {
   color: #ffffff !important;
 }
+
+/* Additional selectors for better coverage */
+.dark article .content {
+  color: #B4AFB6 !important;
+}
+
+.dark article .content p {
+  color: #B4AFB6 !important;
+}
+
+.dark article .content h1,
+.dark article .content h2,
+.dark article .content h3,
+.dark article .content h4,
+.dark article .content h5,
+.dark article .content h6 {
+  color: #ffffff !important;
+}
+
+/* Fix for blog post content */
+.dark .blog-single .content {
+  color: #B4AFB6 !important;
+}
+
+.dark .blog-single .content p {
+  color: #B4AFB6 !important;
+}
+
+.dark .blog-single .content h1,
+.dark .blog-single .content h2,
+.dark .blog-single .content h3,
+.dark .blog-single .content h4,
+.dark .blog-single .content h5,
+.dark .blog-single .content h6 {
+  color: #ffffff !important;
+}
