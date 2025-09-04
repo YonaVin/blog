@@ -22,14 +22,14 @@ url = "/blog"
 weight = 3
 
 [[main]]
-name = "Contact"
-url = "/contact"
+name = "Categories"
+url = "/categories"
 weight = 4
 
-# [[main]]
-# name = "Categories"
-# url = "/categories"
-# weight = 5
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 5
 
 
 # footer menu
