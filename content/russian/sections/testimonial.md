@@ -5,29 +5,35 @@ description: "Check out my latest thoughts, experiences, and insights. Here are 
 
 # Testimonials (Blog Posts)
 testimonials:
-  - name: "Getting Started with Hugo"
-    designation: "Technology"
+  - name: "Добро пожаловать в мой блог"
+    designation: "Путешествие"
     avatar: "/images/service-1.png"
-    content: "Learn how to build fast, modern websites with Hugo static site generator. Perfect for blogs, portfolios, and documentation sites."
-    link: "/blog/post-1"
+    content: "Привет и добро пожаловать! Меня зовут Алена, и я рада, что вы заглянули в мой блог. Здесь я буду делиться своим опытом в дизайне и фронтенд-разработке."
+    link: "/ru/blog/post-1"
 
-  - name: "My Journey in Web Development"
-    designation: "Personal"
+  - name: "От дизайна к фронтенду: мой путь перехода"
+    designation: "Фронтенд-разработка"
     avatar: "/images/service-2.png"
-    content: "From beginner to developer - sharing my personal experience learning web development and the lessons I've learned along the way."
-    link: "/blog/post-2"
+    content: "Переход от дизайна к фронтенд-разработке был одним из самых захватывающих и сложных опытов в моей карьере."
+    link: "/ru/blog/post-2"
 
-  - name: "Building a Personal Brand Online"
-    designation: "Growth"
+  - name: "Начало моего пути программирования с freeCodeCamp"
+    designation: "Обучение"
     avatar: "/images/service-3.png"
-    content: "How to create and maintain a strong personal brand through blogging, social media, and authentic content creation."
-    link: "/blog/post-3"
+    content: "Когда я решила погрузиться во фронтенд-разработку, я знала, что мне нужно место, которое могло бы направлять меня шаг за шагом, особенно как полного новичка."
+    link: "/ru/blog/post-3"
 
-  - name: "The Future of Web Development"
-    designation: "Technology"
+  - name: "Топ-10 сайтов для изучения фронтенд-разработки"
+    designation: "Ресурсы"
     avatar: "/images/avatar.png"
-    content: "Exploring emerging trends and technologies that will shape the future of web development and digital experiences."
-    link: "/blog/post-4"
+    content: "Изучение фронтенд-разработки может быть ошеломляющим из-за множества онлайн-ресурсов. Чтобы помочь вам выбрать правильную платформу, вот список из 10 сайтов, которые я рекомендую."
+    link: "/ru/blog/post-4"
+
+  - name: "Топ-10 сайтов для изучения дизайна"
+    designation: "Дизайн"
+    avatar: "/images/avatar.png"
+    content: "Дизайн — это огромная область, и независимо от того, начинаете ли вы с UI/UX, графического дизайна или продуктового дизайна, есть множество платформ, которые помогут вам учиться и развиваться."
+    link: "/ru/blog/post-5"
 
 # don't create a separate page
 build:
