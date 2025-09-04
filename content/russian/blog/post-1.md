@@ -3,7 +3,7 @@ title: "Добро пожаловать в мой блог"
 meta_title: "Добро пожаловать"
 description: "Добро пожаловать в мой блог о дизайне и разработке"
 summary: "Добро пожаловать в мой блог! Я рада поделиться с вами своим путешествием в мире дизайна и разработки."
-date: 2025-09-01T05:00:00Z
+date: 2025-08-30T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Journey", "Life & Inspiration"]
 author: "Yona"
