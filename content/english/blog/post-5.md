@@ -4,7 +4,7 @@ meta_title: ""
 description: "Design is a huge field, and whether you're starting with UI/UX, graphic design, or product design, there are many platforms that can help you learn and grow."
 summary: "Design is a huge field, and whether you're starting with UI/UX, graphic design, or product design, there are many platforms that can help you learn and grow. Here are 10 websites I recommend, with a short description, pros, and cons."
 date: 2025-09-03T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/5post.png"
 categories: ["Design", "Learning"]
 author: "Yona"
 tags: ["Design", "Learning", "Resources", "UI/UX", "Websites"]

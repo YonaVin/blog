@@ -4,7 +4,7 @@ meta_title: "freeCodeCamp для начинающих"
 description: "Когда я решила погрузиться во фронтенд-разработку, я знала, что мне нужно место, которое могло бы направлять меня шаг за шагом, особенно как полного новичка."
 summary: "Когда я решила погрузиться во фронтенд-разработку, я знала, что мне нужно место, которое могло бы направлять меня шаг за шагом, особенно как полного новичка. Именно тогда я открыла freeCodeCamp — и это оказался идеальный выбор."
 date: 2025-09-01T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/3post.png"
 categories: ["Learning", "Projects"]
 author: "Yona"
 tags: ["Learning", "freeCodeCamp", "Coding Journey", "Front-End"]

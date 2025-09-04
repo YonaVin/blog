@@ -4,7 +4,7 @@ meta_title: ""
 description: "When I decided to dive into front-end development, I knew I needed a place that could guide me step by step, especially as a complete beginner."
 summary: "When I decided to dive into front-end development, I knew I needed a place that could guide me step by step, especially as a complete beginner. That's when I discovered freeCodeCamp — and it turned out to be the perfect choice."
 date: 2025-09-01T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/3post.png"
 categories: ["Learning", "Projects"]
 author: "Yona"
 tags: ["Learning", "freeCodeCamp", "Coding Journey", "Front-End"]

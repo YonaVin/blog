@@ -7,7 +7,7 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "О нас"
+name = "Обо мне"
 url = "/about"
 weight = 2
 
@@ -34,7 +34,7 @@ weight = 5
 
 # footer menu
 [[footer]]
-name = "О нас"
+name = "Обо мне"
 url = "/about"
 weight = 1
 

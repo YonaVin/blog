@@ -4,7 +4,7 @@ meta_title: ""
 description: "Learning front-end development can be overwhelming with so many online resources. To help you choose the right platform, here's a list of 10 websites I recommend."
 summary: "Learning front-end development can be overwhelming with so many online resources. To help you choose the right platform, here's a list of 10 websites I recommend, with a short description, pros, and cons."
 date: 2025-09-02T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/4post.png"
 categories: ["Design", "Life & Inspiration"]
 author: "Yona"
 tags: ["Learning", "Resources", "Front-End", "Websites"]

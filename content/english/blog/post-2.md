@@ -4,7 +4,7 @@ meta_title: ""
 description: "Making the leap from design to front-end development was one of the most exciting and challenging experiences of my career."
 summary: "Making the leap from design to front-end development was one of the most exciting and challenging experiences of my career. In this post, I want to share what motivated me to make this transition, how I approached learning, and the lessons I picked up along the way."
 date: 2025-08-31T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/2post.png"
 categories: ["Journey", "Front-End Development"]
 author: "Yona"
 tags: ["Career Growth", "Learning", "Design", "Front-End"]

@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 summary: "Welcome to my blog! I'm excited to share my journey in design and development with you."
 date: 2025-08-30T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/1post.png"
 categories: ["Journey", "Life & Inspiration"]
 author: "Yona"
 tags: ["Welcome", "Introduction", "Blog"]
