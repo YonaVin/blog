@@ -55,3 +55,21 @@ select[onchange*="location"] {
 .dark select[onchange*="location"] {
   background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='rgba(255, 255, 255, 0.509)'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e") !important;
 }
+
+/* Fix post text color */
+.dark .content {
+  color: #B4AFB6 !important;
+}
+
+.dark .content p {
+  color: #B4AFB6 !important;
+}
+
+.dark .content h1,
+.dark .content h2,
+.dark .content h3,
+.dark .content h4,
+.dark .content h5,
+.dark .content h6 {
+  color: #B4AFB6 !important;
+}
