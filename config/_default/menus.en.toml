@@ -22,28 +22,14 @@ url = "/blog"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
 name = "Contact"
 url = "/contact"
+weight = 4
 
 # [[main]]
-# parent = "Pages"
-# name = "Authors"
-# url = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-# [[main]]
-# parent = "Pages"
-# name = "404 Page"
-# url = "/404"
+# name = "Categories"
+# url = "/categories"
+# weight = 5
 
 
 # footer menu

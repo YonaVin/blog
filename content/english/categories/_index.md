@@ -2,6 +2,7 @@
 title: "Categories"
 meta_title: "Blog Categories"
 description: "Explore articles by categories and find topics that interest you"
+draft: true
 ---
 
 # Blog Categories
