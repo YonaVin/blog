@@ -10,20 +10,26 @@ Here you can find all articles organized by topics and categories. Choose a cate
 
 ## Available Categories
 
-### 🚀 **Applications**
-Articles about app development, using modern technologies and frameworks.
+### 🌟 **Journey**
+Personal stories, experiences, and reflections on my development journey.
 
-### 🏗️ **Architecture**
-Posts about architectural solutions, system design and project planning.
+### 🎨 **Design**
+UI/UX design, visual concepts, and creative solutions for better user experiences.
 
-### 💻 **Software**
-Articles about the software development process, best practices and tools.
+### 💻 **Front-End Development**
+Web development, JavaScript, React, and modern front-end technologies.
 
-### 🔬 **Technology**
-Posts about the latest technologies, innovations and their impact on our lives.
+### 🚀 **Projects**
+Showcase of completed projects, case studies, and development processes.
 
-### 📊 **Data**
-Articles about working with data, analytics and information systems.
+### 📚 **Learning**
+Educational content, tutorials, and insights from continuous learning.
+
+### 💡 **Tips & Tricks**
+Practical advice, shortcuts, and helpful techniques for developers.
+
+### 🌱 **Life & Inspiration**
+Personal growth, motivation, and life lessons that inspire creativity.
 
 ---
 

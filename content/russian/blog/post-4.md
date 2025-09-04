@@ -4,9 +4,9 @@ meta_title: "Архитектура будущего"
 description: "Исследуйте, как современные технологии и архитектурные решения создают города и пространства будущего"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Architecture"]
+categories: ["Design", "Life & Inspiration"]
 author: "Yona"
-tags: ["silicon", "technology"]
+tags: ["UI", "UX", "Web Design", "Inspiration"]
 draft: false
 ---
 

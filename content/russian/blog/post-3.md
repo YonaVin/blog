@@ -4,9 +4,9 @@ meta_title: "Разработка ПО"
 description: "Погрузитесь в процесс создания программного обеспечения и узнайте о ключевых этапах разработки"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Software"]
+categories: ["Learning", "Tips & Tricks"]
 author: "Yona"
-tags: ["software", "tailwind"]
+tags: ["Learning", "Tutorials", "Coding Tips"]
 draft: false
 ---
 
