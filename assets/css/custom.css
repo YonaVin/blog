@@ -109,3 +109,29 @@ select[onchange*="location"] {
 .dark .blog-single .content h6 {
   color: #ffffff !important;
 }
+
+/* Links and subtitles in dark theme */
+.dark .content a,
+.dark article .content a,
+.dark .blog-single .content a {
+  color: #B4AFB6 !important;
+}
+
+.dark .content a:hover,
+.dark article .content a:hover,
+.dark .blog-single .content a:hover {
+  color: #ffffff !important;
+}
+
+/* Subtitles and secondary headings */
+.dark .content h4,
+.dark .content h5,
+.dark .content h6,
+.dark article .content h4,
+.dark article .content h5,
+.dark article .content h6,
+.dark .blog-single .content h4,
+.dark .blog-single .content h5,
+.dark .blog-single .content h6 {
+  color: #B4AFB6 !important;
+}
