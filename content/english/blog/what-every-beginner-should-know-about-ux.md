@@ -2,10 +2,11 @@
 title: "What Every Beginner Should Know About UX"
 date: 2025-10-14T14:42:11+09:00
 draft: false
+image: "/images/post6.png"
 description: "A beginner's guide to understanding User Experience (UX) design - what it is, why it matters, and how to get started."
 tags: ["UX", "Design", "Beginner", "User Experience", "Web Development"]
 categories: ["Design", "Tutorial"]
-author: "John Doe"
+author: "Yona"
 featured: true
 ---
 
