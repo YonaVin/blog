@@ -3,7 +3,7 @@ title: "My Biggest Mistakes as a Beginner in Design and Front-End (and What I Le
 meta_title: ""
 description: "When you start learning something new, mistakes are part of the process. Looking back at my journey from designer to front-end developer, I can see that every mistake taught me something valuable."
 summary: "When you start learning something new, mistakes are part of the process. Looking back at my journey from designer to front-end developer, I can see that every mistake taught me something valuable — even when it didn't feel like it at the time."
-date: 2025-01-15T05:00:00Z
+date: 2025-10-21T05:00:00Z
 image: "/images/post7.png"
 categories: ["Learning", "Design", "Front-End Development"]
 author: "Yona"
